@@ -36,10 +36,11 @@
 
 #### Connect With Me !
 
-<a href="https://linkedin.com/in/mainul-islam-a755aa184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mainul-islam-a755aa184" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakib417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib417" height="30" width="40" /></a>
 <a href="https://fb.com/rakib417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib417" height="30" width="40" /></a>
+<!--
 <a href="https://instagram.com/mainul_ishraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mainul_ishraf" height="30" width="40" /></a>
-
+-->
 </br>
 </br>
 
