@@ -30,7 +30,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-005C84?style=flat-square&logo=material.ui%20ui%20ui&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Word_Press)https://img.shields.io/badge/any_text-iu_like-blue
+![Wordpress](-https://img.shields.io/badge/any_text-you_like-blue)
 
 
 
