@@ -6,7 +6,7 @@
 <!--
 ![Profile views](https://gpvc.arturio.dev/Mainul163)  <a href="https://wakatime.com/@cae19a2b-5b56-4fec-b693-bf09d27b98d5"><img src="https://wakatime.com/badge/user/cae19a2b-5b56-4fec-b693-bf09d27b98d5.svg" alt="Total time coded since Sep 25 2021" /></a>
 -->
-#####  I’m a Software developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+#####  I’m a WordPress Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 
 </br>
@@ -30,13 +30,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-005C84?style=flat-square&logo=material.ui%20ui%20ui&logoColor=white)
-![Ant CSS](https://img.shields.io/badge/Ant%20Css-0CC1F3?style=flat-square&logo=ant-design&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-white?style=flat-square&logo=heroku&logoColor=purple)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F38020?style=flat-square&logo=firebase&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-A81D33?style=flat-square&logo=vs-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Word_Press)https://img.shields.io/badge/any_text-you_like-blue
+![Wordpress](https://img.shields.io/badge/Word_Press)https://img.shields.io/badge/any_text-iu_like-blue
 
 
 
