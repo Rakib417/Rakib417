@@ -18,19 +18,14 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=black)
-![Node js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-white?style=flat-square&logo=express&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-FFFFFF?style=flat-square&logo=.net&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-white?style=flat-square&logo=wordpress&logoColor=black)
+![PHP](https://img.shields.io/badge/php-white?style=flat-square&logo=php&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-005C84?style=flat-square&logo=material.ui%20ui%20ui&logoColor=white)
-![Wordpress](-https://img.shields.io/badge/any_text-you_like-blue)
 
 
 
