@@ -26,6 +26,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-005C84?style=flat-square&logo=material.ui%20ui%20ui&logoColor=white)
+![GIT](https://img.shields.io/badge/git-white?style=flat-square&logo=git&logoColor=black)
+
 
 
 
